@@ -1,2 +1,2 @@
 # odin-recipes
-IIteration 1: Initial Structure
+Odin Recipes Project
